@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 寂照神變三摩地經
+#+DATE: 2015-08-30 20:15:10.624569
+#+PROPERTY: JUAN 0
